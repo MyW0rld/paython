@@ -120,11 +120,9 @@ nav ul li {
 }
 
 .wb-title {
-  background-color: #00aa00;
 }
 
 .wb-min {
-  background-color: #00aa00;
 }
 
 .wb-min:hover {
@@ -132,7 +130,6 @@ nav ul li {
 }
 
 .wb-max {
-  background-color: #00aa00;
 }
 
 .wb-max:hover {
@@ -140,7 +137,6 @@ nav ul li {
 }
 
 .wb-full {
-  background-color: #00aa00;
 }
 
 .wb-full:hover {
@@ -148,7 +144,6 @@ nav ul li {
 }
 
 .wb-close {
-  background-color: #00aa00;
 }
 
 .wb-close:hover {
